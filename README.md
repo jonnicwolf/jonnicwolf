@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![cat image](https://arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/EX5UAUYF3JDQRIAUFPVRVXQEFE.png)
+
 <!--
 **jonnicwolf/jonnicwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
