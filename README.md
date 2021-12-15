@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![cat image](https://arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/EX5UAUYF3JDQRIAUFPVRVXQEFE.png)
+I'm currently working on a Text Based D&D adventure game with a CLI (React UI coming soon) and an e-commerce webstore.
+
+Learning C++ && Python 
 
 <!--
 **jonnicwolf/jonnicwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
