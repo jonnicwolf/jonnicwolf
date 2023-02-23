@@ -4,8 +4,6 @@ I'm Fezz, a Software Apprentice Engineer at SeatGeek. I learned software enginee
 
 In addition to my professional work, I'm a huge motorsports, boxing and football fan. When I'm not coding, I can be found mountain biking, swimming, or powerlifting.
 
-Learning C++ && Python 
-
 - 🔭 I’m currently working on rebuilding my profile website and rebooting DragonRend
 - 👯 I’m looking to collaborate on DragonRend
 - 🌱 I’m currently learning Unity
