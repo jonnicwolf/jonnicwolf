@@ -4,7 +4,7 @@ I'm Jon, and due to the many Jons around, everyone calls me Fezz., a freelance F
 
 In addition to my professional work, I'm a huge motorsports, boxing and football fan. When I'm not coding, I can be found mountain biking, swimming, or powerlifting.
 
-- 🔭 Currently working on a web store called the Stoned Cold Dreamery $ stoned_cold_dreamery
+- 🔭 Currently working on a chess game where the board is made of hexagons (look up hex-chess/ glinski's chess) $ hexChess.react
 - 🌱 I’m currently learning Swift
 
 <!--
