@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Fezz! I'm a full stack web dev. Check my live works [here](https://jonnicwolf.dev)
-I'm currently working on [Secrets of the Cartomancer](https://cartomancerssecrets.netlify.app) 
+I'm Fezz! I'm a full stack web dev. Check my live works [here](https://jonnicwolf.dev).
+I'm currently working on [Secrets of the Cartomancer](https://cartomancerssecrets.netlify.app).
 I program in JavaScript, Python, Swift and GoLang!
 
 In addition to my professional work, I'm a huge motorsports, boxing and football fan. When I'm not coding, I can be found mountain biking, swimming, or powerlifting.
