@@ -6,7 +6,7 @@ I program in JavaScript, Python, Swift and GoLang!
 
 In addition to my professional work, I'm a huge motorsports, boxing and football fan. When I'm not coding, I can be found mountain biking, swimming, or powerlifting.
 
-- 📫 How to reach me: jonnicwolf@gmail.com | [LinkedIn](https://www.linkedin.com/in/jonathannarine/)
+- 📫 How to reach me: jonnicwolf@gmail.com | [LinkedIn](https://www.linkedin.com/in/jonathannarine/) | [Portfolio Site](https://jonnickwolf.dev)
 - 🔭 I'm also working on a chess game where the board is made of hexagons (look up hex-chess/ glinski's chess) $ hexChess.react
 - 🌱 I’m currently learning Swift
 - 🤔 I’m looking for help with [hexChess](https://github.com/jonnicwolf/hexChess.react)
