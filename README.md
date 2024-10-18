@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fezz! Check out my live works [here](https://fezz.vercel.app). 
+I'm Jon, everyone calls me Fezz! Check out my live works [here](https://fezz.vercel.app). 
 I'm currently working on [Esperi](https://esperi.vercel.app). 
 I program in TypeScript, Python, and Swift!
 
