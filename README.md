@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Jon, everyone calls me Fezz! Check out my live works [here](https://fezz.vercel.app). 
-I'm currently working on [Esperi](https://esperi.vercel.app). 
+I'm currently working on [Soirée](https://soiree-drab.vercel.app). 
 I program in TypeScript, Python, and Swift!
 
 In addition to my professional work, I'm a huge motorsports, boxing and football fan. When I'm not coding, I can be found biking, reading or trying restaurants.
